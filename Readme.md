@@ -5,10 +5,10 @@
     <h2>🔥 My Stats:</h2>
         
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yash926&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diwakar9835&theme=tokyonight)](https://git.io/streak-stats)
 
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash926&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar9835&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> ⚒️ Languages and Tools I am proficient with:</h2>
 <div align="left">
@@ -19,4 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
     <h2> Trophies:</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=Yash926&theme=algolia">
+    <img src="https://github-profile-trophy.vercel.app/?username=diwakar9835&theme=algolia">
